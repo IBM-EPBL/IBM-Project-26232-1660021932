@@ -1,0 +1,2 @@
+       Ultrasonic sensor deployed here with arduino UNO r3 will monitor the person's distance from the front door of home in centimeter. Once the sensor detect that the person's distance is <=100cm, the light inside the home goes ON. 
+       And the PIR sensor deployed will monitor the motion of the person after the person's distance is less than 100cm that is detected by ultrasonic sensor. Once it senses any motion, buzzer inside the home turns ON for a given delay duration and the front door gets opened using the servo motor.
