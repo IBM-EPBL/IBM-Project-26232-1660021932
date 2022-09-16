@@ -34,7 +34,7 @@ void loop()
   Serial.print("Distance is ");
   Serial.print(dist);
   Serial.println("cm");
-  if(dist < 50)
+  if(dist < 100)
   {
     digitalWrite(light, HIGH);
     if(digitalRead(sensor))
