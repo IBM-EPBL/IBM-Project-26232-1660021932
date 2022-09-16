@@ -1,0 +1,5 @@
+M.S.Santhoshkumar (Team Leader) - Team ID : PNT2022TMID11527
+
+Working : 
+ Ultrasonic sensor that i deployed in this project monitors the distance of the moving person in cm. When the distance of the person is <=100, then the light inside the home goes ON.
+ And the PIR sensor monitors the motion of the person. If it senses any motion near the door after ultrasonic sensor detects that the person is arriving closer to the front door, it will just switches on the buzzer and the door gets opened automatically by servo motor attached with the door.
